@@ -1,13 +1,11 @@
 {
   "name": "caribbean-countries",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Caribbean Countries/Territories Array",
   "author": {
     "name": "Lasana Murray",
     "url": "http://github.com/metasansana"
   },
-  "contributors": [
-  ],
   "repository": "metasansana/caribbean-countries",
   "license": "MIT",
   "files": [
@@ -26,6 +24,6 @@
   },
   "scripts": {
     "test": "grunt"
-  }
+  },
   "homepage": "https://gist.github.com/b4ucode/328b38f36b98cb9c4e3b"
 }
